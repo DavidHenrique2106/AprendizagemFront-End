@@ -1,0 +1,27 @@
+*{box-sizing: border-box;}
+
+body{margin: 0;}
+
+.titulo{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.texto1{
+    float: left;
+    width: 50%;
+}
+
+.texto2{
+    float: right;
+}
+
+.contatos{
+    
+    width: 100%;
+    width: 50%;
+    
+}
+
+
