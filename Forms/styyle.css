@@ -1,0 +1,49 @@
+.topo{
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+    color: white;
+}
+
+.topo img{
+    width: 11%;
+    float: left;
+    margin-top: -147px;
+}
+
+.topo h3{
+    width: 10%;
+    float: right;
+    margin-top: -125px;
+}
+
+.topo ul{
+    width: 10%;
+    float: right;
+    margin-top: -85px;
+}
+
+.topo a{
+    color: white;
+}
+
+.formulario{
+    text-align: center;
+    padding: 10px;
+    margin-top: -40px;
+}
+
+.enviar{
+    margin-top: -10px;
+}
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
