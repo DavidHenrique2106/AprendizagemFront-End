@@ -1,0 +1,71 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.topo{
+    display: flex;
+    flex-flow: row wrap;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    flex: 20%;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #180f4a;
+    margin-left: 10%;
+}
+
+.menu{
+    flex: 70%;
+    text-align: right;
+    padding: 20px;
+}
+
+.menu a{
+    color: #180f4a;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 16px;
+}
+
+.menu a:hover{
+    color: #FF2978;
+    border-top: 4px solid;
+}
+
+#botao{
+    background-color: #180f4a;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+#botao:hover{
+    border: none;
+    background:#FF2978; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
